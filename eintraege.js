@@ -258,21 +258,5 @@ window.EINTRAEGE = [
       "Suzaku",
       "Treffen"
     ]
-  },
-  {
-    "id": "t3-bunshin",
-    "datum": "2026-11-01",
-    "von": "18:00",
-    "bis": "19:00",
-    "titel": "Abendstunde: Bunshin no Jutsu",
-    "kategorie": "akademie",
-    "rang": "",
-    "ort": "Akademie",
-    "text": "Am Abend gab es an der Akademie noch eine Übungsstunde zum Bunshin no Jutsu, dem Doppelgänger-Jutsu. Dabei erzeugt man ein Abbild von sich selbst, das keinen Körper hat, aber einen Gegner kurz ablenken kann.\nDie Senseis haben darauf geachtet, dass die Doppelgänger nicht blass oder verzerrt aussehen. Meine waren am Anfang noch ungenau, am Ende der Stunde sahen sie mir schon deutlich ähnlicher.",
-    "tags": [
-      "Akademie",
-      "Bunshin no Jutsu",
-      "Jutsu"
-    ]
   }
 ];
