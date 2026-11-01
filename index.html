@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sande Kokuyo · Berichtsheft</title>
+  <meta name="description" content="Das Berichtsheft von Sande Kokuyo: Missionen, Training und Dienst im Naruto-RP.">
+  <meta name="theme-color" content="#0d0b0e">
+  <!-- link preview (Discord, WhatsApp …): card rendered by sande-kokuyo-werkzeuge/karte.ps1 -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Shinobi-Akte">
+  <meta property="og:title" content="Berichtsheft – Sandē Kokuyō">
+  <meta property="og:description" content="Genin aus Konoha · Raiton und Deiton · Schülerbewegung Suzaku. Alle Berichte, Trainings und Missionen.">
+  <meta property="og:url" content="https://sande-kokuyo-berichtsheft.netlify.app/">
+  <meta property="og:image" content="https://sande-kokuyo-berichtsheft.netlify.app/bilder/karte.jpg">
+  <meta property="og:image:width" content="1800">
+  <meta property="og:image:height" content="945">
+  <meta property="og:image:alt" content="Charakterkarte von Sandē Kokuyō mit dem Suzaku-Phönix">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='30' fill='%23b3261e'/%3E%3Ctext x='32' y='44' font-size='34' text-anchor='middle' fill='%23f6d78b' font-family='serif'%3E%E9%BB%92%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@500;700;800&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero">
+    <canvas id="glut" aria-hidden="true"></canvas>
+    <div class="hero-inhalt">
+      <p class="hero-vorzeile">Shinobi-Akte · 報告書</p>
+      <h1 class="hero-kanji" aria-label="Kokuyo">黒曜</h1>
+      <p class="hero-name" id="profil-name">Sande Kokuyo</p>
+      <p class="hero-titel">Berichtsheft</p>
+    </div>
+    <button class="thema-knopf" id="thema-knopf" type="button" aria-label="Farbschema wechseln" title="Obsidian / Washi"></button>
+  </header>
+
+  <main>
+    <section class="akte" aria-labelledby="akte-titel">
+      <h2 id="akte-titel" class="abschnitt-titel"><span lang="ja">忍者登録</span> Steckbrief</h2>
+      <dl class="akte-raster" id="akte"></dl>
+    </section>
+
+    <section class="geschichte" id="geschichte" hidden>
+      <div class="karte herkunft">
+        <h2 class="abschnitt-titel"><span lang="ja">生い立ち</span> Herkunft</h2>
+        <div class="herkunft-text gekuerzt" id="herkunft"></div>
+        <button class="mehr-knopf" id="herkunft-knopf" type="button">Ganze Geschichte lesen …</button>
+      </div>
+      <div class="karte">
+        <h2 class="abschnitt-titel"><span lang="ja">目標</span> Ziele</h2>
+        <ol class="ziele" id="ziele"></ol>
+      </div>
+    </section>
+
+    <section class="werte" aria-label="Übersicht">
+      <div class="wert"><span class="wert-zahl" data-zaehler="eintraege">0</span><span class="wert-name">Einträge</span></div>
+      <div class="wert"><span class="wert-zahl" data-zaehler="tage">0</span><span class="wert-name">Monate</span></div>
+      <div class="wert"><span class="wert-zahl" data-zaehler="missionen">0</span><span class="wert-name">Missionen</span></div>
+    </section>
+
+    <section class="karte rang-karte">
+      <h2 class="abschnitt-titel"><span lang="ja">任務</span> Missionen nach Rang</h2>
+      <div class="raenge" id="raenge"></div>
+    </section>
+
+    <section class="bericht" aria-labelledby="bericht-titel">
+      <div class="bericht-kopf">
+        <h2 id="bericht-titel" class="abschnitt-titel"><span lang="ja">記録</span> Berichte</h2>
+        <div class="schreib-leiste" id="schreib-leiste" hidden>
+          <button class="knopf knopf-haupt" id="neu-knopf" type="button">✎ Neuer Eintrag</button>
+          <button class="knopf" id="export-knopf" type="button" title="Lädt eintraege.js herunter, die du auf GitHub ersetzt">⇩ Für GitHub exportieren</button>
+        </div>
+      </div>
+
+      <div class="tag-wahl" id="tag-wahl" role="group" aria-label="Monat auswählen"></div>
+
+      <div class="filter">
+        <input type="search" id="suche" placeholder="Suchen: Titel, Ort, Text, Tags …" aria-label="Berichte durchsuchen">
+        <div class="filter-chips" id="filter-chips" role="group" aria-label="Kategorie"></div>
+      </div>
+
+      <div id="lokal-hinweis" class="lokal-hinweis" hidden></div>
+      <div id="zeitleiste" class="zeitleiste"></div>
+    </section>
+
+    <section class="druck-unterschrift" aria-hidden="true">
+      <div><span></span>Unterschrift Shinobi</div>
+      <div><span></span>Unterschrift Ausbilder / Sensei</div>
+    </section>
+  </main>
+
+  <footer class="fuss">
+    <span>黒曜 · Berichtsheft von <span id="fuss-name">Sande Kokuyo</span></span>
+    <span class="fuss-knoepfe">
+      <button class="link-knopf" id="druck-knopf" type="button">Drucken / PDF</button>
+      <button class="link-knopf" id="schreibmodus-knopf" type="button">Schreibmodus</button>
+    </span>
+  </footer>
+
+  <dialog id="eintrag-dialog" class="dialog">
+    <form method="dialog" id="eintrag-form" class="form">
+      <h2 class="dialog-titel" id="dialog-titel">Neuer Eintrag</h2>
+      <div class="form-raster">
+        <label>Datum<input type="date" name="datum" required></label>
+        <label>Von <small>(optional)</small><input type="time" name="von"></label>
+        <label>Bis <small>(optional)</small><input type="time" name="bis"></label>
+        <label class="breit">Titel<input type="text" name="titel" maxlength="80" required placeholder="z. B. Eskorte eines Händlers nach Tanzaku"></label>
+        <label>Kategorie<select name="kategorie" id="kategorie-auswahl"></select></label>
+        <label>Missionsrang<select name="rang">
+          <option value="">–</option><option>D</option><option>C</option><option>B</option><option>A</option><option>S</option>
+        </select></label>
+        <label>Ort<input type="text" name="ort" maxlength="60" placeholder="z. B. Trainingsplatz 7"></label>
+        <label class="breit">Bericht<textarea name="text" rows="6" required placeholder="Was ist passiert? Wer war dabei? Was hast du gelernt?"></textarea></label>
+        <label class="breit">Tags <small>(mit Komma trennen)</small><input type="text" name="tags" placeholder="Suzaku, Markt, Kontakte"></label>
+        <label class="breit haken"><input type="checkbox" name="meilenstein"> Meilenstein (wird golden hervorgehoben)</label>
+      </div>
+      <div class="dialog-knoepfe">
+        <button class="knopf knopf-gefahr" type="button" id="loeschen-knopf" hidden>Entwurf verwerfen</button>
+        <span class="platz"></span>
+        <button class="knopf" type="button" id="abbrechen-knopf">Abbrechen</button>
+        <button class="knopf knopf-haupt" type="submit">Abstempeln</button>
+      </div>
+      <div class="hanko" id="hanko" aria-hidden="true"><span>承認</span></div>
+    </form>
+  </dialog>
+
+  <dialog id="bild-dialog" class="bild-dialog" aria-label="Bild">
+    <figure>
+      <img id="bild-gross" alt="">
+      <figcaption id="bild-unterschrift"></figcaption>
+    </figure>
+  </dialog>
+
+  <script src="eintraege.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
