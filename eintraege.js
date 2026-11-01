@@ -1,6 +1,6 @@
 // Sande Kokuyo – Berichtsheft: Daten
 // Diese Datei ersetzt du durch den Export aus dem Schreibmodus ("Für GitHub exportieren").
-// von/bis sind optional. meilenstein: true hebt einen Eintrag golden hervor.
+// Uhrzeiten (von/bis) werden nicht eingetragen. meilenstein: true hebt einen Eintrag golden hervor.
 // tusche (nur bei Meilensteinen): Tuschebild, das über dem ganzen Tag steht; tuscheText ist die Bildunterschrift.
 
 window.PROFIL = {
@@ -43,8 +43,6 @@ window.EINTRAEGE = [
   {
     "id": "t1-theorie",
     "datum": "2026-10-29",
-    "von": "17:00",
-    "bis": "18:30",
     "titel": "Theorie: Grundlagen, Regeln und Shinobi-Wissen",
     "kategorie": "akademie",
     "rang": "",
@@ -61,8 +59,6 @@ window.EINTRAEGE = [
   {
     "id": "t1-praxis",
     "datum": "2026-10-29",
-    "von": "18:30",
-    "bis": "19:30",
     "titel": "Praxis: Mudras, Chakra-Sprung und Tausch-Jutsu",
     "kategorie": "akademie",
     "rang": "",
@@ -79,8 +75,6 @@ window.EINTRAEGE = [
   {
     "id": "t1-genin",
     "datum": "2026-10-29",
-    "von": "20:30",
-    "bis": "21:30",
     "titel": "Abschlussprüfung bestanden – Genin",
     "kategorie": "akademie",
     "rang": "",
@@ -183,8 +177,6 @@ window.EINTRAEGE = [
   {
     "id": "t3-wurfwaffen",
     "datum": "2026-11-01",
-    "von": "10:00",
-    "bis": "12:00",
     "titel": "Praxis: Kunai-Werfen mit den Kokuyō",
     "kategorie": "akademie",
     "rang": "",
@@ -200,8 +192,6 @@ window.EINTRAEGE = [
   {
     "id": "t3-raiton",
     "datum": "2026-11-01",
-    "von": "13:00",
-    "bis": "14:30",
     "titel": "Raiton-Übungen auf dem Trainingsplatz",
     "kategorie": "training",
     "rang": "",
@@ -215,8 +205,6 @@ window.EINTRAEGE = [
   {
     "id": "t3-deiton",
     "datum": "2026-11-01",
-    "von": "14:30",
-    "bis": "15:30",
     "titel": "Deiton: Boden aufweichen",
     "kategorie": "training",
     "rang": "",
@@ -230,8 +218,6 @@ window.EINTRAEGE = [
   {
     "id": "t3-dorf",
     "datum": "2026-11-01",
-    "von": "15:30",
-    "bis": "17:00",
     "titel": "Im Dorf mit Leuten geredet",
     "kategorie": "alltag",
     "rang": "",
@@ -246,8 +232,6 @@ window.EINTRAEGE = [
   {
     "id": "t3-suzaku-treffen",
     "datum": "2026-11-01",
-    "von": "17:00",
-    "bis": "18:00",
     "titel": "Treffen von Suzaku",
     "kategorie": "alltag",
     "rang": "",
