@@ -228,6 +228,22 @@ window.EINTRAEGE = [
     ]
   },
   {
+    "id": "t3-dorf",
+    "datum": "2026-11-01",
+    "von": "15:30",
+    "bis": "17:00",
+    "titel": "Im Dorf mit Leuten geredet",
+    "kategorie": "alltag",
+    "rang": "",
+    "ort": "Konoha",
+    "text": "Nach dem Training bin ich durch das Dorf gegangen und habe mit mehreren Leuten gesprochen. Ich wollte mich besser einleben, weil ich vorher fast nur den Hof kannte und im Dorf noch vieles neu für mich ist.\nDie meisten waren offen und haben kurz erzählt, wer sie sind und was sie machen. So weiß ich jetzt etwas besser, wer wo im Dorf zu finden ist, und fühle mich hier nicht mehr ganz so fremd.",
+    "tags": [
+      "Konoha",
+      "Einleben",
+      "Kontakte"
+    ]
+  },
+  {
     "id": "t3-suzaku-treffen",
     "datum": "2026-11-01",
     "von": "17:00",
