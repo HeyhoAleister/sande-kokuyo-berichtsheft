@@ -3,6 +3,8 @@
 Das Berichtsheft von Sande Kokuyo für das Naruto-RP: Missionen, Training, Kämpfe und Dienst mit Wochenübersicht,
 Chakra-Kalender, Missionsrängen, Suche und Druckansicht.
 
+Online: https://heyhoaleister.github.io/sande-kokuyo-berichtsheft/
+
 ## Online stellen (GitHub Pages)
 
 1. Auf GitHub ein neues **öffentliches** Repository namens `sande-kokuyo-berichtsheft` anlegen.
