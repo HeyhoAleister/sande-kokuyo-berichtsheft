@@ -181,37 +181,20 @@ window.EINTRAEGE = [
     ]
   },
   {
-    "id": "t3-theorie",
-    "datum": "2026-11-01",
-    "von": "08:00",
-    "bis": "10:00",
-    "titel": "Theorie: Missionsränge und Berichte",
-    "kategorie": "akademie",
-    "rang": "",
-    "ort": "Akademie",
-    "text": "Der Tag begann mit Theorie an der Akademie. Die Senseis haben erklärt, wie Missionen im Dorf vergeben werden und was die Ränge D bis S bedeuten. D-Rang-Missionen sind einfache Aufträge im und um das Dorf, ab C-Rang kann es außerhalb gefährlich werden.\nAußerdem ging es darum, wie man nach einer Mission einen Bericht schreibt: was passiert ist, wer dabei war und was man beim nächsten Mal anders machen würde. Das war für mich nützlich, weil ich genau so etwas hier in meinem Berichtsheft mache.",
-    "tags": [
-      "Akademie",
-      "Theorie",
-      "Missionsränge",
-      "Berichte"
-    ]
-  },
-  {
     "id": "t3-wurfwaffen",
     "datum": "2026-11-01",
     "von": "10:00",
     "bis": "12:00",
-    "titel": "Praxis: Kunai und Shuriken",
+    "titel": "Praxis: Kunai-Werfen mit den Kokuyō",
     "kategorie": "akademie",
     "rang": "",
     "ort": "Akademie",
-    "text": "Danach hatten wir Praxis mit Wurfwaffen. Wir haben mit Kunai und Shuriken auf Zielscheiben aus Holz geworfen, zuerst im Stehen, dann aus der Bewegung. Kunai werden eher gerade geworfen, Shuriken mit einer Drehung aus dem Handgelenk.\nIm Stehen habe ich die Scheibe meistens getroffen. Aus der Bewegung lagen viele Würfe noch daneben. Daran will ich weiter arbeiten.",
+    "text": "In der Praxisstunde an der Akademie habe ich mit anderen aus der Kokuyō-Familie das Werfen mit Kunai geübt. Wir haben abwechselnd auf Zielscheiben aus Holz geworfen, zuerst im Stehen und später aus der Bewegung.\nDabei haben wir uns gegenseitig auf Fehler hingewiesen, zum Beispiel wenn der Wurf zu sehr aus dem Arm statt aus dem Handgelenk kam. Im Stehen habe ich die Scheibe meistens getroffen, aus der Bewegung lagen noch viele Würfe daneben. Daran will ich weiter arbeiten.",
     "tags": [
       "Akademie",
       "Praxis",
       "Kunai",
-      "Shuriken"
+      "Kokuyō"
     ]
   },
   {
