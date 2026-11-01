@@ -132,7 +132,9 @@
     </figure>
   </dialog>
 
-  <script src="eintraege.js"></script>
-  <script src="app.js"></script>
+  <script>
+    // GitHub Pages lets browsers cache files for 10 minutes; a fresh query string loads the latest entries on every visit
+    for (const datei of ["eintraege.js", "app.js"]) document.write('<script src="' + datei + '?v=' + Date.now() + '"><\/script>');
+  </script>
 </body>
 </html>
