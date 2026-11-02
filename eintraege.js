@@ -6,7 +6,7 @@
 window.PROFIL = {
   "name": "Sandē Kokuyō",
   "dorf": "Konoha",
-  "rang": "Genin",
+  "rang": "Bestätigter Genin",
   "clan": "Kein Clan – Bauernfamilie Kokuyō",
   "team": "Schülerbewegung Suzaku",
   "element": "Raiton",
@@ -17,7 +17,7 @@ window.PROFIL = {
     "Sandē Kokuyō ist auf einem kleinen Bauernhof am Rand von Konoha aufgewachsen, als eines von mehreren Geschwistern. Die Kokuyō gehören keinem bekannten Clan an – einfache Leute, die vom Land leben und zusammenhalten. Jeder musste mit anpacken, und schon früh hat Sandē gelernt, dass eine Familie nur so stark ist wie derjenige, der für sie einsteht.",
     "Als Sandē noch klein war, kamen in einem Winter Räuber auf den Hof und wollten Vorräte und Vieh mitnehmen. Sein Vater wurde dabei verletzt. Eine Patrouille aus Konoha kam dazu und hat die Räuber vertrieben. Seitdem hat Sandē großen Respekt vor den Shinobi des Dorfes.",
     "Danach hat er angefangen, nachts am Tor des Hofes Wache zu halten. Meistens ist nichts passiert, aber er hat dabei gelernt, aufmerksam zu sein und ruhig zu bleiben.",
-    "Mit den Jahren hat sich gezeigt, dass er mit Chakra umgehen kann. Sein Element ist Raiton, dazu kommt das Kekkei Genkai Deiton. Er ist an die Akademie gegangen und ist heute Genin. Was er später genau machen will, weiß er noch nicht. Fest steht nur, dass er seine Familie und das Dorf schützen möchte."
+    "Mit den Jahren hat sich gezeigt, dass er mit Chakra umgehen kann. Sein Element ist Raiton, dazu kommt das Kekkei Genkai Deiton. Er ist an die Akademie gegangen und ist heute bestätigter Genin. Was er später genau machen will, weiß er noch nicht. Fest steht nur, dass er seine Familie und das Dorf schützen möchte."
   ],
   "ziele": [
     {
@@ -272,16 +272,18 @@ window.EINTRAEGE = [
   {
     "id": "t4-pruefung-teams",
     "datum": "2026-11-02",
-    "titel": "Bestätigte Genin-Prüfung: Teamkampf als Teamleiter",
+    "titel": "Bestätigte Genin-Prüfung bestanden – Teamkampf als Teamleiter",
     "kategorie": "akademie",
     "rang": "",
     "ort": "",
-    "text": "Im zweiten Teil wurden wir in vier Teams aufgeteilt. Um weiterzukommen, musste jedes Team den Teamleiter eines gegnerischen Teams besiegen. Ich war der Leiter unseres Teams.\nDas hieß für mich, dass ich gleichzeitig mit meinem Team gegen einen gegnerischen Teamleiter vorgehen musste und selbst das Ziel der anderen Teams war. Ich musste also darauf achten, nicht selbst besiegt zu werden, während wir versucht haben, an den gegnerischen Leiter heranzukommen.",
+    "text": "Im zweiten Teil wurden wir in vier Teams aufgeteilt. Um weiterzukommen, musste jedes Team den Teamleiter eines gegnerischen Teams besiegen. Ich war der Leiter unseres Teams.\nDas hieß für mich, dass ich gleichzeitig mit meinem Team gegen einen gegnerischen Teamleiter vorgehen musste und selbst das Ziel der anderen Teams war. Ich musste also darauf achten, nicht selbst besiegt zu werden, während wir versucht haben, an den gegnerischen Leiter heranzukommen.\nAm Ende habe ich die Prüfung bestanden. Damit bin ich jetzt bestätigter Genin.",
     "tags": [
       "Prüfung",
       "Genin",
-      "Teamleiter"
-    ]
+      "Teamleiter",
+      "Bestätigter Genin"
+    ],
+    "meilenstein": true
   },
   {
     "id": "t4-militaer",
