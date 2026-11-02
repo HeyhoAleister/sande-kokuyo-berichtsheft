@@ -10,14 +10,14 @@ window.PROFIL = {
   "clan": "Kein Clan – Bauernfamilie Kokuyō",
   "team": "Schülerbewegung Suzaku",
   "element": "Raiton",
-  "kekkeiGenkai": "Deiton",
+  "kekkeiGenkai": "Futton",
   "sensei": "–",
   "motto": "Einer muss ja aufpassen.",
   "herkunft": [
     "Sandē Kokuyō ist auf einem kleinen Bauernhof am Rand von Konoha aufgewachsen, als eines von mehreren Geschwistern. Die Kokuyō gehören keinem bekannten Clan an – einfache Leute, die vom Land leben und zusammenhalten. Jeder musste mit anpacken, und schon früh hat Sandē gelernt, dass eine Familie nur so stark ist wie derjenige, der für sie einsteht.",
     "Als Sandē noch klein war, kamen in einem Winter Räuber auf den Hof und wollten Vorräte und Vieh mitnehmen. Sein Vater wurde dabei verletzt. Eine Patrouille aus Konoha kam dazu und hat die Räuber vertrieben. Seitdem hat Sandē großen Respekt vor den Shinobi des Dorfes.",
     "Danach hat er angefangen, nachts am Tor des Hofes Wache zu halten. Meistens ist nichts passiert, aber er hat dabei gelernt, aufmerksam zu sein und ruhig zu bleiben.",
-    "Mit den Jahren hat sich gezeigt, dass er mit Chakra umgehen kann. Sein Element ist Raiton, dazu kommt das Kekkei Genkai Deiton. Er ist an die Akademie gegangen und ist heute Chunin. Was er später genau machen will, weiß er noch nicht. Fest steht nur, dass er seine Familie und das Dorf schützen möchte."
+    "Mit den Jahren hat sich gezeigt, dass er mit Chakra umgehen kann. Sein Element ist Raiton, dazu kommt das Kekkei Genkai Futton. Er ist an die Akademie gegangen und ist heute Chunin. Was er später genau machen will, weiß er noch nicht. Fest steht nur, dass er seine Familie und das Dorf schützen möchte."
   ],
   "ziele": [
     {
@@ -25,8 +25,8 @@ window.PROFIL = {
       "text": "Jeden Tag trainieren, auch wenn niemand zusieht: Taijutsu, Ausdauer, Reaktion und Disziplin. Beim Militär muss man stundenlang wach bleiben und im entscheidenden Moment sofort handeln."
     },
     {
-      "titel": "Raiton und Deiton meistern",
-      "text": "Raiton für schnelle, präzise Angriffe, Deiton, um Gegner festzuhalten und den Boden zu kontrollieren. Eine Kampfweise, die Angreifer aufhält und Menschen schützt, statt nur zu siegen."
+      "titel": "Raiton und Futton meistern",
+      "text": "Raiton für schnelle, präzise Angriffe, Futton, um Gegner mit heißem Dampf aufzuhalten und ihnen die Sicht zu nehmen. Eine Kampfweise, die Angreifer aufhält und Menschen schützt, statt nur zu siegen."
     },
     {
       "titel": "Dem Militär beitreten",
@@ -415,6 +415,20 @@ window.EINTRAEGE = [
     "tags": [
       "Kameradschaft",
       "Krieg"
+    ]
+  },
+  {
+    "id": "t5-futton",
+    "datum": "2026-11-03",
+    "titel": "Futton statt Deiton",
+    "kategorie": "sonstiges",
+    "rang": "",
+    "ort": "",
+    "text": "Außerdem habe ich jetzt Futton statt Deiton als Kekkei Genkai. Futton verbindet Feuer und Wasser zu heißem Dampf. Bisher habe ich vor allem den Boden aufgeweicht, um Gegner festzuhalten. Mit Futton muss ich das anders angehen und meine Kampfweise umstellen.",
+    "tags": [
+      "Futton",
+      "Deiton",
+      "Kekkei Genkai"
     ]
   }
 ];
