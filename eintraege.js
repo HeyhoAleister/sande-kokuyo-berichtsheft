@@ -363,8 +363,8 @@ window.EINTRAEGE = [
     "titel": "Von Kazama Senju zum Chunin ernannt",
     "kategorie": "dienst",
     "rang": "",
-    "ort": "",
-    "text": "Später bin ich zu Kazama Senju gegangen und habe mich wegen des Kriegs gegen Sunagakure gemeldet. Er hat mich daraufhin für meine Arbeit dort zum Chunin ernannt. Er sagte aber auch, dass das eine Ausnahme ist.\nDamit bin ich jetzt Chunin. Mir ist klar, dass das nicht der normale Weg ist und dass jetzt mehr von mir erwartet wird.",
+    "ort": "Militärgelände",
+    "text": "Später bin ich zu Kazama Senju gegangen und habe mich wegen des Kriegs gegen Sunagakure gemeldet. Wir waren draußen auf dem Militärgelände. Er hat mich daraufhin für meine Arbeit im Krieg zum Chunin ernannt.\nDamit bin ich jetzt Chunin. Mir ist klar, dass jetzt mehr von mir erwartet wird.",
     "tags": [
       "Kazama Senju",
       "Chunin",
@@ -373,7 +373,7 @@ window.EINTRAEGE = [
     ],
     "meilenstein": true,
     "tusche": "bilder/tusche-monat5-chunin.jpg",
-    "tuscheText": "Ernennung zum Chunin durch Kazama Senju"
+    "tuscheText": "Ernennung zum Chunin durch Kazama Senju auf dem Militärgelände"
   },
   {
     "id": "t5-training",
@@ -391,27 +391,13 @@ window.EINTRAEGE = [
     ]
   },
   {
-    "id": "t5-tore",
-    "datum": "2026-11-03",
-    "titel": "An den Toren beim Aufräumen geholfen",
-    "kategorie": "dienst",
-    "rang": "",
-    "ort": "Tore von Konoha",
-    "text": "Anschließend sind wir zusammen zu den Toren gegangen, weil dort noch Spuren vom Kampf zu sehen waren. Wir haben geholfen, Trümmer wegzuräumen und beschädigte Balken von der Mauer wegzutragen.\nDas war einfache Arbeit, aber sie musste gemacht werden, und zu mehreren ging es schnell voran.",
-    "tags": [
-      "Tore",
-      "Aufräumen",
-      "Kameradschaft"
-    ]
-  },
-  {
     "id": "t5-abend",
     "datum": "2026-11-03",
     "titel": "Abends mit den anderen zusammengesessen",
     "kategorie": "alltag",
     "rang": "",
     "ort": "Konoha",
-    "text": "Am Abend haben wir noch zusammen gegessen. Wir haben darüber geredet, wie es jedem seit dem Krieg geht und was sich im Dorf verändert hat. Ich habe den anderen auch von meiner Ernennung erzählt und dazugesagt, dass sie eine Ausnahme war.",
+    "text": "Am Abend haben wir noch zusammen gegessen. Wir haben darüber geredet, wie es jedem seit dem Krieg geht und was sich im Dorf verändert hat. Ich habe den anderen auch von meiner Ernennung erzählt.",
     "tags": [
       "Kameradschaft",
       "Krieg"
