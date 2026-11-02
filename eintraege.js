@@ -6,7 +6,7 @@
 window.PROFIL = {
   "name": "Sandē Kokuyō",
   "dorf": "Konoha",
-  "rang": "Bestätigter Genin",
+  "rang": "Chunin",
   "clan": "Kein Clan – Bauernfamilie Kokuyō",
   "team": "Schülerbewegung Suzaku",
   "element": "Raiton",
@@ -17,20 +17,20 @@ window.PROFIL = {
     "Sandē Kokuyō ist auf einem kleinen Bauernhof am Rand von Konoha aufgewachsen, als eines von mehreren Geschwistern. Die Kokuyō gehören keinem bekannten Clan an – einfache Leute, die vom Land leben und zusammenhalten. Jeder musste mit anpacken, und schon früh hat Sandē gelernt, dass eine Familie nur so stark ist wie derjenige, der für sie einsteht.",
     "Als Sandē noch klein war, kamen in einem Winter Räuber auf den Hof und wollten Vorräte und Vieh mitnehmen. Sein Vater wurde dabei verletzt. Eine Patrouille aus Konoha kam dazu und hat die Räuber vertrieben. Seitdem hat Sandē großen Respekt vor den Shinobi des Dorfes.",
     "Danach hat er angefangen, nachts am Tor des Hofes Wache zu halten. Meistens ist nichts passiert, aber er hat dabei gelernt, aufmerksam zu sein und ruhig zu bleiben.",
-    "Mit den Jahren hat sich gezeigt, dass er mit Chakra umgehen kann. Sein Element ist Raiton, dazu kommt das Kekkei Genkai Deiton. Er ist an die Akademie gegangen und ist heute bestätigter Genin. Was er später genau machen will, weiß er noch nicht. Fest steht nur, dass er seine Familie und das Dorf schützen möchte."
+    "Mit den Jahren hat sich gezeigt, dass er mit Chakra umgehen kann. Sein Element ist Raiton, dazu kommt das Kekkei Genkai Deiton. Er ist an die Akademie gegangen und ist heute Chunin. Was er später genau machen will, weiß er noch nicht. Fest steht nur, dass er seine Familie und das Dorf schützen möchte."
   ],
   "ziele": [
     {
       "titel": "Körper und Geist schärfen",
-      "text": "Jeden Tag trainieren, auch wenn niemand zusieht: Taijutsu, Ausdauer, Reaktion und Disziplin. Ein Wächter muss stundenlang wach bleiben und im entscheidenden Moment sofort handeln."
+      "text": "Jeden Tag trainieren, auch wenn niemand zusieht: Taijutsu, Ausdauer, Reaktion und Disziplin. Beim Militär muss man stundenlang wach bleiben und im entscheidenden Moment sofort handeln."
     },
     {
       "titel": "Raiton und Deiton meistern",
       "text": "Raiton für schnelle, präzise Angriffe, Deiton, um Gegner festzuhalten und den Boden zu kontrollieren. Eine Kampfweise, die Angreifer aufhält und Menschen schützt, statt nur zu siegen."
     },
     {
-      "titel": "Der Palastwache beitreten",
-      "text": "Lernen, wie die Palastwache arbeitet – ihre Regeln, Abläufe und Leute. Sich durch Zuverlässigkeit, Pünktlichkeit und Haltung empfehlen und die Aufnahme schaffen."
+      "titel": "Dem Militär beitreten",
+      "text": "Lernen, wie das Militär von Konoha arbeitet – seine Regeln, Abläufe und Leute. Über ein Praktikum die Arbeit von innen kennenlernen, sich durch Zuverlässigkeit, Pünktlichkeit und Haltung empfehlen und die Aufnahme schaffen."
     },
     {
       "titel": "Für Familie und Dorf",
@@ -328,5 +328,92 @@ window.EINTRAEGE = [
     "meilenstein": true,
     "tusche": "bilder/tusche-monat4-suna.jpg",
     "tuscheText": "Kampf gegen Sunagakure vor den Toren Konohas"
+  },
+  {
+    "id": "t5-dimension",
+    "datum": "2026-11-03",
+    "titel": "Über die Dimension informiert",
+    "kategorie": "alltag",
+    "rang": "",
+    "ort": "",
+    "text": "Zuerst habe ich mich über die Dimension informiert und mit ein paar Leuten geredet. Ich wollte mir selbst ein Bild machen, statt mich nur auf das zu verlassen, was im Dorf erzählt wird.",
+    "tags": [
+      "Dimension",
+      "Kontakte"
+    ]
+  },
+  {
+    "id": "t5-polizei",
+    "datum": "2026-11-03",
+    "titel": "Bei der Polizei Bericht erstattet",
+    "kategorie": "alltag",
+    "rang": "",
+    "ort": "Polizei",
+    "text": "Danach war ich bei der Polizei und habe dort einen Bericht über eine Beschwerde erstattet, die ich hatte. Mir war wichtig, dass die Sache offiziell festgehalten ist und sich jemand darum kümmern kann.",
+    "tags": [
+      "Polizei",
+      "Bericht",
+      "Beschwerde"
+    ]
+  },
+  {
+    "id": "t5-chunin",
+    "datum": "2026-11-03",
+    "titel": "Von Kasama Senju zum Chunin ernannt",
+    "kategorie": "dienst",
+    "rang": "",
+    "ort": "",
+    "text": "Später bin ich zu Kasama Senju gegangen und habe mich wegen des Kriegs gegen Sunagakure gemeldet. Er hat mich daraufhin für meine Arbeit dort zum Chunin ernannt. Er sagte aber auch, dass das eine Ausnahme ist.\nDamit bin ich jetzt Chunin. Mir ist klar, dass das nicht der normale Weg ist und dass jetzt mehr von mir erwartet wird.",
+    "tags": [
+      "Kasama Senju",
+      "Chunin",
+      "Ernennung",
+      "Sunagakure"
+    ],
+    "meilenstein": true,
+    "tusche": "bilder/tusche-monat5-chunin.jpg",
+    "tuscheText": "Ernennung zum Chunin durch Kasama Senju"
+  },
+  {
+    "id": "t5-training",
+    "datum": "2026-11-03",
+    "titel": "Training mit den anderen",
+    "kategorie": "training",
+    "rang": "",
+    "ort": "Trainingsplatz",
+    "text": "Danach war ich mit ein paar anderen Shinobi auf dem Trainingsplatz. Zuerst haben wir in wechselnden Paaren gekämpft. Dabei habe ich den Tritt der Morgendämmerung benutzt, den ich im letzten Monat gelernt habe. Er sitzt noch nicht immer, vor allem wenn der Gegner schnell den Abstand verkürzt.\nZum Schluss haben wir Kunai aus der Bewegung geworfen. Das klappt inzwischen besser als am Anfang, aber einige Würfe lagen immer noch daneben.",
+    "tags": [
+      "Training",
+      "Taijutsu",
+      "Tritt der Morgendämmerung",
+      "Kunai"
+    ]
+  },
+  {
+    "id": "t5-tore",
+    "datum": "2026-11-03",
+    "titel": "An den Toren beim Aufräumen geholfen",
+    "kategorie": "dienst",
+    "rang": "",
+    "ort": "Tore von Konoha",
+    "text": "Anschließend sind wir zusammen zu den Toren gegangen, weil dort noch Spuren vom Kampf zu sehen waren. Wir haben geholfen, Trümmer wegzuräumen und beschädigte Balken von der Mauer wegzutragen.\nDas war einfache Arbeit, aber sie musste gemacht werden, und zu mehreren ging es schnell voran.",
+    "tags": [
+      "Tore",
+      "Aufräumen",
+      "Kameradschaft"
+    ]
+  },
+  {
+    "id": "t5-abend",
+    "datum": "2026-11-03",
+    "titel": "Abends mit den anderen zusammengesessen",
+    "kategorie": "alltag",
+    "rang": "",
+    "ort": "Konoha",
+    "text": "Am Abend haben wir noch zusammen gegessen. Wir haben darüber geredet, wie es jedem seit dem Krieg geht und was sich im Dorf verändert hat. Ich habe den anderen auch von meiner Ernennung erzählt und dazugesagt, dass sie eine Ausnahme war.",
+    "tags": [
+      "Kameradschaft",
+      "Krieg"
+    ]
   }
 ];
