@@ -330,15 +330,16 @@ window.EINTRAEGE = [
     "tuscheText": "Kampf gegen Sunagakure vor den Toren Konohas"
   },
   {
-    "id": "t5-dimension",
+    "id": "t5-division",
     "datum": "2026-11-03",
-    "titel": "Über die Dimension informiert",
+    "titel": "Über die Division informiert",
     "kategorie": "alltag",
     "rang": "",
     "ort": "",
-    "text": "Zuerst habe ich mich über die Dimension informiert und mit ein paar Leuten geredet. Ich wollte mir selbst ein Bild machen, statt mich nur auf das zu verlassen, was im Dorf erzählt wird.",
+    "text": "Zuerst habe ich mich über die Division informiert und mit ein paar Leuten geredet. Ich will zum Militär und wollte mir deshalb selbst ein Bild machen, statt mich nur auf das zu verlassen, was im Dorf erzählt wird.",
     "tags": [
-      "Dimension",
+      "Division",
+      "Militär",
       "Kontakte"
     ]
   },
@@ -359,20 +360,20 @@ window.EINTRAEGE = [
   {
     "id": "t5-chunin",
     "datum": "2026-11-03",
-    "titel": "Von Kasama Senju zum Chunin ernannt",
+    "titel": "Von Kazama Senju zum Chunin ernannt",
     "kategorie": "dienst",
     "rang": "",
     "ort": "",
-    "text": "Später bin ich zu Kasama Senju gegangen und habe mich wegen des Kriegs gegen Sunagakure gemeldet. Er hat mich daraufhin für meine Arbeit dort zum Chunin ernannt. Er sagte aber auch, dass das eine Ausnahme ist.\nDamit bin ich jetzt Chunin. Mir ist klar, dass das nicht der normale Weg ist und dass jetzt mehr von mir erwartet wird.",
+    "text": "Später bin ich zu Kazama Senju gegangen und habe mich wegen des Kriegs gegen Sunagakure gemeldet. Er hat mich daraufhin für meine Arbeit dort zum Chunin ernannt. Er sagte aber auch, dass das eine Ausnahme ist.\nDamit bin ich jetzt Chunin. Mir ist klar, dass das nicht der normale Weg ist und dass jetzt mehr von mir erwartet wird.",
     "tags": [
-      "Kasama Senju",
+      "Kazama Senju",
       "Chunin",
       "Ernennung",
       "Sunagakure"
     ],
     "meilenstein": true,
     "tusche": "bilder/tusche-monat5-chunin.jpg",
-    "tuscheText": "Ernennung zum Chunin durch Kasama Senju"
+    "tuscheText": "Ernennung zum Chunin durch Kazama Senju"
   },
   {
     "id": "t5-training",
