@@ -241,5 +241,90 @@ window.EINTRAEGE = [
       "Suzaku",
       "Treffen"
     ]
+  },
+  {
+    "id": "t4-training",
+    "datum": "2026-11-02",
+    "titel": "Training mit mehreren Shinobi",
+    "kategorie": "training",
+    "rang": "",
+    "ort": "",
+    "text": "Zu Beginn habe ich wieder mit mehreren Shinobi trainiert. Mit verschiedenen Leuten zu üben, hilft mir, mich auf unterschiedliche Kampfweisen einzustellen, statt mich immer nur an dieselben Bewegungen zu gewöhnen.",
+    "tags": [
+      "Training",
+      "Shinobi"
+    ]
+  },
+  {
+    "id": "t4-pruefung-kreis",
+    "datum": "2026-11-02",
+    "titel": "Bestätigte Genin-Prüfung: Gruppen auf Zuruf",
+    "kategorie": "akademie",
+    "rang": "",
+    "ort": "",
+    "text": "Danach stand die bestätigte Genin-Prüfung an. In der ersten Aufgabe mussten wir im Kreis um den Sensei laufen, während er gesungen hat. Jedes Mal, wenn er eine Zahl gesagt hat, mussten wir uns sofort zu Gruppen mit genau dieser Anzahl an Leuten zusammenfinden. Wer in einer Gruppe mit zu vielen oder zu wenigen Leuten stand, wurde disqualifiziert.\nDas ging über drei Runden. Es kam vor allem darauf an, beim Laufen genau zuzuhören, schnell zu reagieren und sich mit den anderen abzustimmen, weil man eine Gruppe nicht allein bilden kann. Ich bin durch alle drei Runden gekommen.",
+    "tags": [
+      "Prüfung",
+      "Genin",
+      "Sensei"
+    ]
+  },
+  {
+    "id": "t4-pruefung-teams",
+    "datum": "2026-11-02",
+    "titel": "Bestätigte Genin-Prüfung: Teamkampf als Teamleiter",
+    "kategorie": "akademie",
+    "rang": "",
+    "ort": "",
+    "text": "Im zweiten Teil wurden wir in vier Teams aufgeteilt. Um weiterzukommen, musste jedes Team den Teamleiter eines gegnerischen Teams besiegen. Ich war der Leiter unseres Teams.\nDas hieß für mich, dass ich gleichzeitig mit meinem Team gegen einen gegnerischen Teamleiter vorgehen musste und selbst das Ziel der anderen Teams war. Ich musste also darauf achten, nicht selbst besiegt zu werden, während wir versucht haben, an den gegnerischen Leiter heranzukommen.",
+    "tags": [
+      "Prüfung",
+      "Genin",
+      "Teamleiter"
+    ]
+  },
+  {
+    "id": "t4-militaer",
+    "datum": "2026-11-02",
+    "titel": "Beim Militär nach einem Praktikum gefragt",
+    "kategorie": "alltag",
+    "rang": "",
+    "ort": "",
+    "text": "Nach der Prüfung habe ich mit Leuten vom Militär gesprochen und gefragt, ob ich bei ihnen ein Praktikum machen kann. Ich möchte später das Dorf schützen, und ein Praktikum wäre eine gute Möglichkeit, die Arbeit dort von innen kennenzulernen und zu sehen, was von einem erwartet wird.",
+    "tags": [
+      "Militär",
+      "Praktikum"
+    ]
+  },
+  {
+    "id": "t4-taijutsu",
+    "datum": "2026-11-02",
+    "titel": "Taijutsu-Unterricht: Tritt der Morgendämmerung",
+    "kategorie": "akademie",
+    "rang": "",
+    "ort": "",
+    "text": "Danach war ich bei einem Taijutsu-Unterricht und habe dort den Tritt der Morgendämmerung gelernt. Das ist eine Tritttechnik aus dem Taijutsu, also dem Nahkampf ohne Jutsus und Waffen.\nEinen sauberen, starken Tritt kann ich im Nahkampf gut gebrauchen, gerade wenn ich jemanden aufhalten oder auf Abstand halten muss.",
+    "tags": [
+      "Taijutsu",
+      "Tritt der Morgendämmerung"
+    ]
+  },
+  {
+    "id": "t4-suna",
+    "datum": "2026-11-02",
+    "titel": "Sunagakure vor den Toren Konohas",
+    "kategorie": "kampf",
+    "rang": "",
+    "ort": "Tore von Konoha",
+    "text": "Zum Schluss stand Sunagakure vor den Toren Konohas, und es kam zum Kampf. Für mich war es der erste Kampf gegen feindliche Shinobi, und es gab viele Tote.\nIch konnte mehrere feindliche Shinobi verletzen. Dabei wurde ich aber selbst verletzt und musste danach ins Krankenhaus, um behandelt zu werden.",
+    "tags": [
+      "Sunagakure",
+      "Kampf",
+      "Tore",
+      "Krankenhaus"
+    ],
+    "meilenstein": true,
+    "tusche": "bilder/tusche-monat4-suna.jpg",
+    "tuscheText": "Kampf gegen Sunagakure vor den Toren Konohas"
   }
 ];
