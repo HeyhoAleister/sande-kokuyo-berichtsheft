@@ -372,7 +372,7 @@ window.EINTRAEGE = [
       "Sunagakure"
     ],
     "meilenstein": true,
-    "tusche": "bilder/tusche-monat5-chunin.jpg",
+    "tusche": "bilder/tusche-monat5-militaer.jpg",
     "tuscheText": "Ernennung zum Chunin durch Kazama Senju auf dem Militärgelände"
   },
   {
