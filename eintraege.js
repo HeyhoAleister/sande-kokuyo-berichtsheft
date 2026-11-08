@@ -22,15 +22,15 @@ window.PROFIL = {
   "ziele": [
     {
       "titel": "Körper und Geist schärfen",
-      "text": "Jeden Tag trainieren, auch wenn niemand zusieht: Taijutsu, Ausdauer, Reaktion und Disziplin. Beim Militär muss man stundenlang wach bleiben und im entscheidenden Moment sofort handeln."
+      "text": "Jeden Tag trainieren, auch wenn niemand zusieht: Taijutsu, Ausdauer, Reaktion und Disziplin. Bei der Polizei muss man lange Streifen durchhalten, aufmerksam bleiben und im entscheidenden Moment sofort handeln."
     },
     {
       "titel": "Raiton und Futton meistern",
       "text": "Raiton für schnelle, präzise Angriffe, Futton, um Gegner mit heißem Dampf aufzuhalten und ihnen die Sicht zu nehmen. Eine Kampfweise, die Angreifer aufhält und Menschen schützt, statt nur zu siegen."
     },
     {
-      "titel": "Dem Militär beitreten",
-      "text": "Lernen, wie das Militär von Konoha arbeitet – seine Regeln, Abläufe und Leute. Über ein Praktikum die Arbeit von innen kennenlernen, sich durch Zuverlässigkeit, Pünktlichkeit und Haltung empfehlen und die Aufnahme schaffen."
+      "titel": "Der Konoha-Polizei beitreten",
+      "text": "Lernen, wie die Konoha-Polizei arbeitet – ihre Regeln, Abläufe und Leute. Für Ordnung im Dorf sorgen, Streit schlichten und Menschen helfen, bevor etwas passiert. Sich durch Zuverlässigkeit, Pünktlichkeit und Haltung empfehlen und die Aufnahme schaffen."
     },
     {
       "titel": "Für Familie und Dorf",
