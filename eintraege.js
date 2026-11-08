@@ -416,5 +416,173 @@ window.EINTRAEGE = [
       "Deiton",
       "Kekkei Genkai"
     ]
+  },
+  {
+    "id": "t6-training",
+    "datum": "2026-11-04",
+    "titel": "Training mit mehreren Shinobi",
+    "kategorie": "training",
+    "rang": "",
+    "ort": "Trainingsplatz",
+    "text": "Zu Beginn des Monats habe ich wieder mit mehreren Shinobi auf dem Trainingsplatz trainiert. Wir haben in wechselnden Paaren gekämpft, damit sich keiner nur an einen Gegner gewöhnt. Dabei habe ich auch den Tritt der Morgendämmerung eingesetzt.",
+    "tags": [
+      "Training",
+      "Shinobi",
+      "Tritt der Morgendämmerung"
+    ]
+  },
+  {
+    "id": "t6-raiton",
+    "datum": "2026-11-04",
+    "titel": "Raiton und Futton geübt",
+    "kategorie": "training",
+    "rang": "",
+    "ort": "Trainingsplatz",
+    "text": "Danach habe ich allein weitergemacht. Bei Raiton habe ich wieder geübt, die Spannung gleichmäßig zu halten. Das klappt inzwischen deutlich besser als am Anfang.\nAußerdem habe ich mit Futton angefangen. Den heißen Dampf richtig zu dosieren, ist schwerer als gedacht, und es kostet viel Chakra.",
+    "tags": [
+      "Raiton",
+      "Futton",
+      "Chakra-Kontrolle"
+    ]
+  },
+  {
+    "id": "t6-dorf",
+    "datum": "2026-11-04",
+    "titel": "Im Dorf mit Leuten geredet",
+    "kategorie": "alltag",
+    "rang": "",
+    "ort": "Konoha",
+    "text": "Zwischendurch war ich im Dorf unterwegs und habe mit mehreren Leuten geredet. Viele haben noch über den Krieg mit Sunagakure gesprochen und darüber, dass es im Feuerreich immer noch unruhig ist.",
+    "tags": [
+      "Konoha",
+      "Kontakte",
+      "Sunagakure"
+    ]
+  },
+  {
+    "id": "t6-mission",
+    "datum": "2026-11-04",
+    "titel": "Mission als Truppenleiter: Ressourcen im Feuerreich gesammelt",
+    "kategorie": "mission",
+    "rang": "",
+    "ort": "Feuerreich",
+    "text": "Später im Monat hatte ich meine erste Mission als Chunin. Wir sollten im Feuerreich Ressourcen sammeln, die das Dorf nach dem Krieg dringend braucht. Ich war dabei der Truppenleiter.\nAls Truppenleiter musste ich vorher den Weg festlegen, die Aufgaben verteilen und unterwegs darauf achten, dass niemand zurückfällt oder sich zu weit von der Gruppe entfernt. Während die anderen gesammelt haben, habe ich immer jemanden Wache halten lassen, weil seit dem Krieg nicht klar ist, wer sich im Feuerreich herumtreibt.\nEs war ungewohnt, für die ganze Gruppe die Entscheidungen zu treffen statt nur für mich selbst. Bei der Teamprüfung als bestätigter Genin war ich zwar schon einmal Teamleiter, aber diesmal ging es nicht um eine Prüfung.",
+    "tags": [
+      "Mission",
+      "Truppenleiter",
+      "Feuerreich",
+      "Ressourcen"
+    ]
+  },
+  {
+    "id": "t6-gefechte",
+    "datum": "2026-11-04",
+    "titel": "Mehrere kleine Gefechte mit Sunagakure",
+    "kategorie": "kampf",
+    "rang": "",
+    "ort": "Feuerreich",
+    "text": "Am selben Tag sind wir im Feuerreich mehrmals auf kleinere Gruppen aus Sunagakure gestoßen, und es kam zu kurzen Gefechten. Ich habe darauf geachtet, dass mein Trupp zusammenbleibt, und selbst mit Raiton und Futton gekämpft.\nAm Ende haben wir die Ressourcen ins Dorf zurückgebracht. Mein Chakra war danach aber fast aufgebraucht.",
+    "tags": [
+      "Sunagakure",
+      "Gefecht",
+      "Truppenleiter"
+    ]
+  },
+  {
+    "id": "t7-ruhe",
+    "datum": "2026-11-05",
+    "titel": "Ruhe nach Chakra-Erschöpfung",
+    "kategorie": "sonstiges",
+    "rang": "",
+    "ort": "Hof der Familie",
+    "text": "Nach der Mission hat mich ein Medic-Nin untersucht. Ich hatte mich bei den Gefechten verausgabt, weil Futton viel mehr Chakra kostet, als ich gedacht hatte. Verletzt war ich nicht schwer, aber er hat mir Ruhe verordnet und mich vom Dienst und vom Training freigestellt.\nDie Zeit habe ich auf dem Hof meiner Familie verbracht. Meine Familie hatte von den Kämpfen im Feuerreich gehört und wollte sehen, dass es mir gut geht. Viel gemacht habe ich in diesem Monat nicht, vor allem geschlafen und gegessen.",
+    "tags": [
+      "Chakra-Erschöpfung",
+      "Medic-Nin",
+      "Familie",
+      "Hof"
+    ]
+  },
+  {
+    "id": "t8-hof",
+    "datum": "2026-11-06",
+    "titel": "Noch immer Chakra-Erschöpfung",
+    "kategorie": "sonstiges",
+    "rang": "",
+    "ort": "Hof der Familie",
+    "text": "Auch in diesem Monat war ich noch nicht wieder im Dienst. Mein Chakra hat sich langsamer erholt, als ich gehofft hatte. Schon kleine Übungen haben mich schnell müde gemacht, deshalb hat der Medic-Nin die Ruhe verlängert.\nIch bin weiter auf dem Hof meiner Familie geblieben und habe mich geschont. Gegen Ende des Monats ging es mir besser, und ich konnte langsam wieder ans Training denken.",
+    "tags": [
+      "Chakra-Erschöpfung",
+      "Medic-Nin",
+      "Familie",
+      "Hof"
+    ]
+  },
+  {
+    "id": "t9-medic",
+    "datum": "2026-11-07",
+    "titel": "Vom Medic-Nin wieder freigegeben",
+    "kategorie": "dienst",
+    "rang": "",
+    "ort": "Krankenhaus",
+    "text": "Zu Beginn des Monats war ich noch einmal beim Medic-Nin im Krankenhaus. Er hat geprüft, wie gut sich mein Chakra erholt hat, und mich danach wieder für Dienst und Training freigegeben.\nEr hat mir aber geraten, Futton erst einmal sparsam einzusetzen und nicht gleich wieder bis an meine Grenze zu gehen.",
+    "tags": [
+      "Medic-Nin",
+      "Krankenhaus",
+      "Chakra"
+    ]
+  },
+  {
+    "id": "t9-militaer",
+    "datum": "2026-11-07",
+    "titel": "Beim Militär zurückgemeldet",
+    "kategorie": "dienst",
+    "rang": "",
+    "ort": "Militärgelände",
+    "text": "Danach bin ich zum Militärgelände gegangen und habe mich zurückgemeldet. Nach zwei Monaten Pause wollte ich zeigen, dass ich wieder einsatzbereit bin.\nIch habe außerdem nachgefragt, was sich in der Zeit getan hat und ob es im Feuerreich weitere Zusammenstöße mit Sunagakure gab.",
+    "tags": [
+      "Militär",
+      "Sunagakure"
+    ]
+  },
+  {
+    "id": "t9-schuelermeister",
+    "datum": "2026-11-07",
+    "titel": "Über das neue Schülermeister-System informiert",
+    "kategorie": "alltag",
+    "rang": "",
+    "ort": "",
+    "text": "Während meiner Pause wurde ein neues Schülermeister-System eingeführt. Ich habe mich darüber informiert, weil ich wissen wollte, wie es funktioniert und was es für mich als Chunin bedeutet.",
+    "tags": [
+      "Schülermeister-System",
+      "Chunin"
+    ]
+  },
+  {
+    "id": "t9-divisionen",
+    "datum": "2026-11-07",
+    "titel": "Die Arbeit von ein paar Divisionen angeschaut",
+    "kategorie": "alltag",
+    "rang": "",
+    "ort": "Militärgelände",
+    "text": "Außerdem habe ich mir die Arbeit von ein paar Divisionen angeschaut. Ich will zum Militär, und bisher hatte ich mich nur über die Divisionen informiert. Diesmal wollte ich selbst sehen, was sie im Alltag machen und wie sie zusammenarbeiten.",
+    "tags": [
+      "Division",
+      "Militär"
+    ]
+  },
+  {
+    "id": "t9-training",
+    "datum": "2026-11-07",
+    "titel": "Wieder mit den anderen trainiert",
+    "kategorie": "training",
+    "rang": "",
+    "ort": "Trainingsplatz",
+    "text": "Später im Monat habe ich wieder mit mehreren Shinobi trainiert. Nach der langen Pause war ich langsamer als vorher und schneller außer Atem. Deshalb haben wir zuerst nur leichtes Taijutsu und Kunai-Werfen gemacht.\nGegen Ende des Monats konnte ich wieder ganz mithalten.",
+    "tags": [
+      "Training",
+      "Taijutsu",
+      "Kunai"
+    ]
   }
 ];
