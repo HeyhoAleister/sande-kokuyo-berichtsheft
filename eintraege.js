@@ -9,7 +9,7 @@ window.PROFIL = {
   "rang": "Chunin",
   "clan": "Kein Clan – Bauernfamilie Kokuyō",
   "team": "Schülerbewegung Suzaku",
-  "element": "Raiton",
+  "element": "Katon",
   "kekkeiGenkai": "Futton",
   "sensei": "–",
   "motto": "Einer muss ja aufpassen.",
@@ -17,7 +17,7 @@ window.PROFIL = {
     "Sandē Kokuyō ist auf einem kleinen Bauernhof am Rand von Konoha aufgewachsen, als eines von mehreren Geschwistern. Die Kokuyō gehören keinem bekannten Clan an – einfache Leute, die vom Land leben und zusammenhalten. Jeder musste mit anpacken, und schon früh hat Sandē gelernt, dass eine Familie nur so stark ist wie derjenige, der für sie einsteht.",
     "Als Sandē noch klein war, kamen in einem Winter Räuber auf den Hof und wollten Vorräte und Vieh mitnehmen. Sein Vater wurde dabei verletzt. Eine Patrouille aus Konoha kam dazu und hat die Räuber vertrieben. Seitdem hat Sandē großen Respekt vor den Shinobi des Dorfes.",
     "Danach hat er angefangen, nachts am Tor des Hofes Wache zu halten. Meistens ist nichts passiert, aber er hat dabei gelernt, aufmerksam zu sein und ruhig zu bleiben.",
-    "Mit den Jahren hat sich gezeigt, dass er mit Chakra umgehen kann. Sein Element ist Raiton, dazu kommt das Kekkei Genkai Futton. Er ist an die Akademie gegangen und ist heute Chunin. Was er später genau machen will, weiß er noch nicht. Fest steht nur, dass er seine Familie und das Dorf schützen möchte."
+    "Mit den Jahren hat sich gezeigt, dass er mit Chakra umgehen kann. Sein Element ist Katon, dazu kommt das Kekkei Genkai Futton. Er ist an die Akademie gegangen und ist heute Chunin. Was er später genau machen will, weiß er noch nicht. Fest steht nur, dass er seine Familie und das Dorf schützen möchte."
   ],
   "ziele": [
     {
@@ -25,8 +25,8 @@ window.PROFIL = {
       "text": "Jeden Tag trainieren, auch wenn niemand zusieht: Taijutsu, Ausdauer, Reaktion und Disziplin. Bei der Polizei muss man lange Streifen durchhalten, aufmerksam bleiben und im entscheidenden Moment sofort handeln."
     },
     {
-      "titel": "Raiton und Futton meistern",
-      "text": "Raiton für schnelle, präzise Angriffe, Futton, um Gegner mit heißem Dampf aufzuhalten und ihnen die Sicht zu nehmen. Eine Kampfweise, die Angreifer aufhält und Menschen schützt, statt nur zu siegen."
+      "titel": "Katon und Futton meistern",
+      "text": "Katon, um Gegnern mit Feuer den Weg abzuschneiden, Futton, um Gegner mit heißem Dampf aufzuhalten und ihnen die Sicht zu nehmen. Eine Kampfweise, die Angreifer aufhält und Menschen schützt, statt nur zu siegen."
     },
     {
       "titel": "Der Konoha-Polizei beitreten",
@@ -192,13 +192,13 @@ window.EINTRAEGE = [
   {
     "id": "t3-raiton",
     "datum": "2026-11-01",
-    "titel": "Raiton-Übungen auf dem Trainingsplatz",
+    "titel": "Katon-Übungen auf dem Trainingsplatz",
     "kategorie": "training",
     "rang": "",
     "ort": "Trainingsplatz",
-    "text": "Am Nachmittag habe ich allein Raiton geübt. Dabei leitet man Chakra in die Hände und wandelt es in Elektrizität um. Am Anfang ist das schwer zu kontrollieren, weil die Entladung schnell zu stark oder zu schwach wird.\nIch habe versucht, die Spannung über längere Zeit gleichmäßig zu halten, ohne dass sie abreißt. Das hat noch nicht immer geklappt, aber es wurde gegen Ende besser.",
+    "text": "Am Nachmittag habe ich allein Katon geübt. Dabei formt man die Fingerzeichen, wandelt Chakra in Feuer um und stößt es meistens mit dem Atem aus. Am Anfang ist das schwer zu kontrollieren, weil die Flamme schnell zu groß oder zu klein wird.\nIch habe versucht, die Flamme über längere Zeit gleichmäßig zu halten, ohne dass sie abreißt. Das hat noch nicht immer geklappt, aber es wurde gegen Ende besser.",
     "tags": [
-      "Raiton",
+      "Katon",
       "Chakra-Kontrolle"
     ]
   },
@@ -236,7 +236,7 @@ window.EINTRAEGE = [
     "kategorie": "alltag",
     "rang": "",
     "ort": "Konoha",
-    "text": "Am frühen Abend hat sich Suzaku getroffen. Wir haben besprochen, wann wir in den nächsten Wochen gemeinsam trainieren. Jeder hat kurz erzählt, woran er gerade arbeitet.\nIch habe vom Unterricht an der Akademie und von meinem Training mit Raiton und Deiton berichtet.",
+    "text": "Am frühen Abend hat sich Suzaku getroffen. Wir haben besprochen, wann wir in den nächsten Wochen gemeinsam trainieren. Jeder hat kurz erzählt, woran er gerade arbeitet.\nIch habe vom Unterricht an der Akademie und von meinem Training mit Katon und Deiton berichtet.",
     "tags": [
       "Suzaku",
       "Treffen"
@@ -434,13 +434,13 @@ window.EINTRAEGE = [
   {
     "id": "t6-raiton",
     "datum": "2026-11-04",
-    "titel": "Raiton und Futton geübt",
+    "titel": "Katon und Futton geübt",
     "kategorie": "training",
     "rang": "",
     "ort": "Trainingsplatz",
-    "text": "Danach habe ich allein weitergemacht. Bei Raiton habe ich wieder geübt, die Spannung gleichmäßig zu halten. Das klappt inzwischen deutlich besser als am Anfang.\nAußerdem habe ich mit Futton angefangen. Den heißen Dampf richtig zu dosieren, ist schwerer als gedacht, und es kostet viel Chakra.",
+    "text": "Danach habe ich allein weitergemacht. Bei Katon habe ich wieder geübt, die Flamme gleichmäßig zu halten. Das klappt inzwischen deutlich besser als am Anfang.\nAußerdem habe ich mit Futton angefangen. Den heißen Dampf richtig zu dosieren, ist schwerer als gedacht, und es kostet viel Chakra.",
     "tags": [
-      "Raiton",
+      "Katon",
       "Futton",
       "Chakra-Kontrolle"
     ]
@@ -481,7 +481,7 @@ window.EINTRAEGE = [
     "kategorie": "kampf",
     "rang": "",
     "ort": "Feuerreich",
-    "text": "Am selben Tag sind wir im Feuerreich mehrmals auf kleinere Gruppen aus Sunagakure gestoßen, und es kam zu kurzen Gefechten. Ich habe darauf geachtet, dass mein Trupp zusammenbleibt, und selbst mit Raiton und Futton gekämpft.\nAm Ende haben wir die Ressourcen ins Dorf zurückgebracht. Mein Chakra war danach aber fast aufgebraucht.",
+    "text": "Am selben Tag sind wir im Feuerreich mehrmals auf kleinere Gruppen aus Sunagakure gestoßen, und es kam zu kurzen Gefechten. Ich habe darauf geachtet, dass mein Trupp zusammenbleibt, und selbst mit Katon und Futton gekämpft.\nAm Ende haben wir die Ressourcen ins Dorf zurückgebracht. Mein Chakra war danach aber fast aufgebraucht.",
     "tags": [
       "Sunagakure",
       "Gefecht",
