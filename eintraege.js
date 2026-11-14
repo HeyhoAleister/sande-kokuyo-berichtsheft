@@ -584,5 +584,381 @@ window.EINTRAEGE = [
       "Taijutsu",
       "Kunai"
     ]
+  },
+  {
+    "id": "t10-polizei",
+    "datum": "2026-11-08",
+    "titel": "Bei der Konoha-Polizei nach der Aufnahme gefragt",
+    "kategorie": "alltag",
+    "rang": "",
+    "ort": "Polizei",
+    "text": "Nachdem ich mir die Arbeit der Divisionen angeschaut hatte, ist mir klar geworden, dass ich lieber zur Konoha-Polizei möchte. Beim Militär geht es vor allem um Kämpfe außerhalb des Dorfes. Ich will aber dort sein, wo die Leute wohnen, und für Ordnung sorgen, bevor überhaupt etwas passiert.\nDeshalb bin ich zur Polizei gegangen und habe gefragt, was man für die Aufnahme braucht. Man hat mir erklärt, dass man die Regeln des Dorfes genau kennen, zuverlässig sein und sich im Dienst bewähren muss.",
+    "tags": [
+      "Konoha-Polizei",
+      "Aufnahme",
+      "Ziel"
+    ]
+  },
+  {
+    "id": "t10-ausdauer",
+    "datum": "2026-11-08",
+    "titel": "Ausdauer und Taijutsu trainiert",
+    "kategorie": "training",
+    "rang": "",
+    "ort": "Trainingsplatz",
+    "text": "Danach habe ich an meiner Ausdauer gearbeitet. Ich bin mehrere Runden um das Dorf gelaufen, weil man bei der Polizei lange Streifen durchhalten muss. Anschließend habe ich auf dem Trainingsplatz Taijutsu geübt, vor allem den Tritt der Morgendämmerung.",
+    "tags": [
+      "Ausdauer",
+      "Taijutsu",
+      "Tritt der Morgendämmerung"
+    ]
+  },
+  {
+    "id": "t10-futton",
+    "datum": "2026-11-08",
+    "titel": "Futton vorsichtig wieder aufgenommen",
+    "kategorie": "training",
+    "rang": "",
+    "ort": "Trainingsplatz",
+    "text": "Zum Schluss habe ich wieder mit Futton geübt, so wie der Medic-Nin es mir geraten hat: nur kurze Stöße Dampf und immer mit Pausen dazwischen. Ich habe rechtzeitig aufgehört, bevor ich müde wurde. Eine zweite Chakra-Erschöpfung will ich auf keinen Fall.",
+    "tags": [
+      "Futton",
+      "Chakra-Kontrolle"
+    ]
+  },
+  {
+    "id": "t10-wiederaufbau",
+    "datum": "2026-11-08",
+    "titel": "Beim Wiederaufbau am Dorfrand geholfen",
+    "kategorie": "dienst",
+    "rang": "",
+    "ort": "Dorfrand",
+    "text": "Am Dorfrand stehen seit dem Krieg mit Sunagakure noch immer ein paar beschädigte Häuser. Ich habe einen Nachmittag lang beim Wiederaufbau geholfen: Balken getragen, Schutt weggeräumt und neue Bretter zugeschnitten.\nDie meisten Leute dort sind Bauern wie meine Familie. Viele haben sich gefreut, dass ein Shinobi mit anpackt, statt nur vorbeizugehen.",
+    "tags": [
+      "Wiederaufbau",
+      "Dorfrand",
+      "Sunagakure"
+    ]
+  },
+  {
+    "id": "t11-bastion",
+    "datum": "2026-11-09",
+    "titel": "Bei den Bastionskämpfen dabei",
+    "kategorie": "kampf",
+    "rang": "",
+    "ort": "Bastion",
+    "text": "In diesem Monat kam es zu Bastionskämpfen, und ich war dabei. Zusammen mit anderen Shinobi aus Konoha haben wir um die Bastionen gekämpft.\nIch habe vor allem mit Katon gekämpft. Futton habe ich nur kurz eingesetzt, um den Gegnern mit dem heißen Dampf die Sicht zu nehmen. So hatte ich am Ende noch genug Chakra übrig und musste diesmal nicht ins Krankenhaus.",
+    "tags": [
+      "Bastionskampf",
+      "Kampf",
+      "Katon",
+      "Futton"
+    ]
+  },
+  {
+    "id": "t11-verletzte",
+    "datum": "2026-11-09",
+    "titel": "Verletzte ins Krankenhaus gebracht",
+    "kategorie": "dienst",
+    "rang": "",
+    "ort": "Krankenhaus",
+    "text": "Direkt nach den Bastionskämpfen gab es mehrere Verletzte, die nicht mehr allein gehen konnten. Zusammen mit zwei anderen habe ich sie ins Krankenhaus gebracht. Einen von ihnen musste ich den ganzen Weg stützen.\nIm Krankenhaus war viel los. Ich bin geblieben, bis alle, die wir gebracht hatten, bei einem Medic-Nin waren.",
+    "tags": [
+      "Krankenhaus",
+      "Verletzte",
+      "Bastionskampf"
+    ]
+  },
+  {
+    "id": "t11-nachbesprechung",
+    "datum": "2026-11-09",
+    "titel": "Nach den Kämpfen mit den anderen geredet",
+    "kategorie": "alltag",
+    "rang": "",
+    "ort": "Konoha",
+    "text": "Nach den Bastionskämpfen haben wir noch zusammengesessen und darüber geredet, was gut lief und was nicht. Ein paar Mal haben wir uns im Gedränge aus den Augen verloren. Beim nächsten Mal wollen wir besser zusammenbleiben und uns vorher absprechen, wer wem den Rücken freihält.",
+    "tags": [
+      "Bastionskampf",
+      "Kameradschaft"
+    ]
+  },
+  {
+    "id": "t12-regeln",
+    "datum": "2026-11-10",
+    "titel": "Regeln und Abläufe der Polizei gelernt",
+    "kategorie": "alltag",
+    "rang": "",
+    "ort": "Polizei",
+    "text": "In diesem Monat habe ich mich mit den Regeln und Abläufen der Konoha-Polizei beschäftigt. Ich habe mir erklären lassen, wie ein Bericht richtig geschrieben wird, wann man jemanden festhalten darf und wann nicht, und an wen man sich bei welchem Problem wendet.\nEinen Bericht hatte ich ja schon einmal selbst erstattet. Diesmal habe ich gesehen, was danach mit so einem Bericht passiert.",
+    "tags": [
+      "Konoha-Polizei",
+      "Regeln",
+      "Bericht"
+    ]
+  },
+  {
+    "id": "t12-neue",
+    "datum": "2026-11-10",
+    "titel": "Neue Shinobi im Kämpfen trainiert",
+    "kategorie": "training",
+    "rang": "",
+    "ort": "Trainingsplatz",
+    "text": "Später habe ich Leute trainiert, die neu sind und noch wenig Kampferfahrung haben. Zuerst habe ich ihnen gezeigt, wie man richtig steht, ausweicht und den Abstand zum Gegner hält. Danach haben sie in Paaren gegeneinander gekämpft, und ich habe ihnen Tipps gegeben.\nAußerdem habe ich ihnen bei ihren Kombos geholfen, also dabei, mehrere Angriffe flüssig hintereinander auszuführen, zum Beispiel einen Tritt und direkt danach einen Kunai-Wurf oder ein Jutsu. Am Anfang kamen die Angriffe noch abgehackt, gegen Ende ging es bei den meisten schon flüssiger.\nDabei habe ich selbst gemerkt, dass man eine Technik erst richtig versteht, wenn man sie jemand anderem erklären muss.",
+    "tags": [
+      "Training",
+      "Neue Shinobi",
+      "Kombos",
+      "Kampf"
+    ]
+  },
+  {
+    "id": "t12-dorf",
+    "datum": "2026-11-10",
+    "titel": "Im Dorf mit Leuten geredet",
+    "kategorie": "alltag",
+    "rang": "",
+    "ort": "Konoha",
+    "text": "Zwischendurch war ich im Dorf unterwegs und habe die Leute gefragt, was sie im Moment stört oder worüber sie sich Sorgen machen. Wer bei der Polizei arbeiten will, muss wissen, was im Dorf los ist.",
+    "tags": [
+      "Konoha",
+      "Kontakte"
+    ]
+  },
+  {
+    "id": "t12-dieb",
+    "datum": "2026-11-10",
+    "titel": "Einen Dieb auf dem Markt aufgehalten",
+    "kategorie": "dienst",
+    "rang": "",
+    "ort": "Markt",
+    "text": "Auf dem Markt hat ein Mann an einem Stand Ware eingesteckt und ist losgerannt, ohne zu bezahlen. Ich bin hinterher und habe ihn ein paar Straßen weiter eingeholt.\nIch habe ihn festgehalten, bis die Polizei da war, und dann erzählt, was ich gesehen hatte. Weil ich mir vorher die Regeln angeschaut hatte, wusste ich, dass ich ihn nur festhalten und nicht selbst bestrafen darf. Die Händlerin hat ihre Ware zurückbekommen.",
+    "tags": [
+      "Markt",
+      "Diebstahl",
+      "Konoha-Polizei"
+    ]
+  },
+  {
+    "id": "t13-streife",
+    "datum": "2026-11-11",
+    "titel": "Eine Streife der Polizei begleitet",
+    "kategorie": "dienst",
+    "rang": "",
+    "ort": "Konoha",
+    "text": "In diesem Monat durfte ich eine Streife der Konoha-Polizei begleiten. Ich war nur als Beobachter dabei und habe mir angesehen, welche Wege die Streife nimmt, worauf sie achtet und wie sie mit den Leuten redet.\nMeistens passiert auf so einer Streife nichts Besonderes, aber man muss trotzdem die ganze Zeit aufmerksam bleiben, damit man im richtigen Moment eingreifen kann.",
+    "tags": [
+      "Konoha-Polizei",
+      "Streife",
+      "Beobachter"
+    ]
+  },
+  {
+    "id": "t13-katon-futton",
+    "datum": "2026-11-11",
+    "titel": "Katon und Futton zusammen geübt",
+    "kategorie": "training",
+    "rang": "",
+    "ort": "Trainingsplatz",
+    "text": "Danach habe ich geübt, Katon und Futton nacheinander einzusetzen: Zuerst schneide ich mit einer Flammenwand den Weg ab, dann nehme ich mit dem Dampf die Sicht. Der Wechsel zwischen den beiden geht noch zu langsam, aber die Idee funktioniert.",
+    "tags": [
+      "Katon",
+      "Futton",
+      "Kombination"
+    ]
+  },
+  {
+    "id": "t13-geleit",
+    "datum": "2026-11-11",
+    "titel": "Mission: Händler ins Nachbardorf begleitet",
+    "kategorie": "mission",
+    "rang": "C",
+    "ort": "Feuerreich",
+    "text": "Später im Monat hatte ich eine C-Rang-Mission. Zusammen mit zwei anderen Shinobi sollte ich einen Händler mit seinem Karren sicher ins Nachbardorf bringen. Seit dem Krieg trauen sich viele Händler nicht mehr allein über die Straßen im Feuerreich.\nUnterwegs ist uns eine kleine Gruppe aufgefallen, die uns eine Weile vom Waldrand aus beobachtet hat. Wir sind dicht beim Karren geblieben und haben gezeigt, dass wir sie gesehen haben. Danach sind sie verschwunden. Der Händler ist mit seiner ganzen Ware angekommen.",
+    "tags": [
+      "Mission",
+      "Geleitschutz",
+      "Händler",
+      "Feuerreich"
+    ]
+  },
+  {
+    "id": "t13-kokuyo",
+    "datum": "2026-11-11",
+    "titel": "Treffen der Kokuyō-Familie",
+    "kategorie": "alltag",
+    "rang": "",
+    "ort": "Konoha",
+    "text": "Nach der Mission habe ich mich mit den anderen aus der Kokuyō-Familie getroffen, die ich an der Akademie kennengelernt hatte. Jeder hat erzählt, was er in den letzten Monaten erlebt hat.\nWir haben uns vorgenommen, uns öfter zu treffen und darauf zu achten, dass keiner von uns allein dasteht, wenn es schwierig wird.",
+    "tags": [
+      "Kokuyō",
+      "Familie",
+      "Treffen"
+    ]
+  },
+  {
+    "id": "t14-bastion",
+    "datum": "2026-11-12",
+    "titel": "Wieder bei den Bastionskämpfen",
+    "kategorie": "kampf",
+    "rang": "",
+    "ort": "Bastion",
+    "text": "In diesem Monat war ich wieder bei den Bastionskämpfen dabei. Diesmal haben wir besser zusammengearbeitet als beim letzten Mal und sind als Gruppe zusammengeblieben.\nIch habe Katon und Futton so eingesetzt, wie ich es geübt hatte, und im Nahkampf den Tritt der Morgendämmerung benutzt. Ein paar kleinere Verletzungen hat ein Medic-Nin direkt vor Ort versorgt.",
+    "tags": [
+      "Bastionskampf",
+      "Kampf",
+      "Katon",
+      "Futton",
+      "Tritt der Morgendämmerung"
+    ]
+  },
+  {
+    "id": "t14-ruhe",
+    "datum": "2026-11-12",
+    "titel": "Nach den Kämpfen ausgeruht",
+    "kategorie": "sonstiges",
+    "rang": "",
+    "ort": "",
+    "text": "Nach den Kämpfen habe ich mich bewusst ausgeruht und genug gegessen, statt gleich weiterzutrainieren. Seit der Mission im Feuerreich weiß ich, wie schnell mein Chakra leer ist, wenn ich nicht aufpasse.",
+    "tags": [
+      "Erholung",
+      "Chakra"
+    ]
+  },
+  {
+    "id": "t14-ausruestung",
+    "datum": "2026-11-12",
+    "titel": "Neue Kunai besorgt",
+    "kategorie": "alltag",
+    "rang": "",
+    "ort": "Konoha",
+    "text": "Bei den Bastionskämpfen sind einige meiner Kunai verloren gegangen. Ich war beim Schmied und habe mir neue Kunai gekauft.\nDanach habe ich meine Tasche neu gepackt, damit ich im Kampf alles sofort finde.",
+    "tags": [
+      "Ausrüstung",
+      "Schmied",
+      "Kunai"
+    ]
+  },
+  {
+    "id": "t15-hof",
+    "datum": "2026-11-13",
+    "titel": "Auf dem Hof der Familie geholfen",
+    "kategorie": "alltag",
+    "rang": "",
+    "ort": "Hof der Familie",
+    "text": "In diesem Monat war ich auf dem Hof meiner Familie und habe bei der Arbeit geholfen. Meine Familie wollte wissen, wie es bei den Bastionskämpfen war und wie es mit der Polizei weitergeht.",
+    "tags": [
+      "Familie",
+      "Hof"
+    ]
+  },
+  {
+    "id": "t15-kunai",
+    "datum": "2026-11-13",
+    "titel": "Kunai aus der Bewegung geworfen",
+    "kategorie": "training",
+    "rang": "",
+    "ort": "Trainingsplatz",
+    "text": "Zurück im Dorf habe ich wieder Kunai aus der Bewegung geworfen. Inzwischen treffe ich die Scheibe auch im Laufen meistens. Nur wenn ich mich dabei schnell umdrehen muss, liegen noch einige Würfe daneben.",
+    "tags": [
+      "Kunai",
+      "Training"
+    ]
+  },
+  {
+    "id": "t15-kind",
+    "datum": "2026-11-13",
+    "titel": "Ein verlaufenes Kind nach Hause gebracht",
+    "kategorie": "alltag",
+    "rang": "",
+    "ort": "Konoha",
+    "text": "Später habe ich in einer Seitenstraße ein kleines Kind gefunden, das allein am Straßenrand saß und geweint hat. Es hatte seine Mutter auf dem Markt verloren und wusste nicht mehr, wo es wohnt.\nIch habe es mitgenommen und mich im Dorf so lange durchgefragt, bis wir die Mutter gefunden haben. Sie hatte das Kind schon überall gesucht.",
+    "tags": [
+      "Kind",
+      "Hilfe",
+      "Konoha"
+    ]
+  },
+  {
+    "id": "t15-versammlung",
+    "datum": "2026-11-13",
+    "titel": "Bei der Dorfversammlung",
+    "kategorie": "alltag",
+    "rang": "",
+    "ort": "Konoha",
+    "text": "In diesem Monat gab es eine Dorfversammlung, und ich war dabei. Dort wurde verkündet, dass in diesem Monat ein Ausgangsverbot gilt. Außerdem kam zur Sprache, dass mehrere Leute aus Konoha überlaufen wollten.\nDazu wurde gesagt, dass man nicht wegen kleiner Gründe überlaufen soll, weil wir in Konoha eine Familie sind und zusammenhalten. Das hat mich berührt. Auf dem Hof habe ich gelernt, dass eine Familie nur so stark ist wie diejenigen, die für sie einstehen. Wegen einer Kleinigkeit würde ich meine Familie auch nicht im Stich lassen.\nAn das Ausgangsverbot habe ich mich gehalten.",
+    "tags": [
+      "Dorfversammlung",
+      "Ausgangsverbot",
+      "Überläufer",
+      "Zusammenhalt"
+    ]
+  },
+  {
+    "id": "t15-bibliothek",
+    "datum": "2026-11-13",
+    "titel": "In der Bibliothek über Futton gelesen",
+    "kategorie": "akademie",
+    "rang": "",
+    "ort": "Bibliothek",
+    "text": "Tagsüber war ich außerdem in der Bibliothek und habe nach Schriften über Futton gesucht. Viel gibt es dazu nicht, weil es nur wenige Shinobi mit diesem Kekkei Genkai gibt. In einer alten Schriftrolle stand aber, wie man den Dampf dichter macht, ohne mehr Chakra zu verbrauchen. Das will ich als Nächstes ausprobieren.",
+    "tags": [
+      "Bibliothek",
+      "Futton",
+      "Kekkei Genkai"
+    ]
+  },
+  {
+    "id": "t16-polizei",
+    "datum": "2026-11-14",
+    "titel": "Bei der Polizei nachgefragt",
+    "kategorie": "alltag",
+    "rang": "",
+    "ort": "Polizei",
+    "text": "Zu Beginn des Monats bin ich noch einmal zur Konoha-Polizei gegangen. Ich habe erzählt, was ich seit meinem ersten Besuch gemacht habe: die Streife, die ich begleitet habe, und die Bastionskämpfe. Dann habe ich gefragt, wie es mit meiner Aufnahme weitergehen kann.\nMan hat mir gesagt, dass ich so weitermachen und mich weiter bewähren soll.",
+    "tags": [
+      "Konoha-Polizei",
+      "Aufnahme"
+    ]
+  },
+  {
+    "id": "t16-training",
+    "datum": "2026-11-14",
+    "titel": "Training mit mehreren Shinobi",
+    "kategorie": "training",
+    "rang": "",
+    "ort": "Trainingsplatz",
+    "text": "Danach habe ich mit mehreren Shinobi trainiert. Wir haben in wechselnden Paaren gekämpft. Ich habe darauf geachtet, Futton nur dann einzusetzen, wenn es wirklich etwas bringt, statt mein Chakra gleich am Anfang zu verbrauchen.",
+    "tags": [
+      "Training",
+      "Shinobi",
+      "Futton"
+    ]
+  },
+  {
+    "id": "t16-streit",
+    "datum": "2026-11-14",
+    "titel": "Streit zwischen zwei Händlern geschlichtet",
+    "kategorie": "dienst",
+    "rang": "",
+    "ort": "Markt",
+    "text": "Auf dem Markt haben sich zwei Händler lautstark darüber gestritten, wem ein Platz für den Stand zusteht. Es standen schon einige Leute drumherum, und einer der beiden hat den anderen geschubst.\nIch bin dazwischengegangen und habe beide erst einmal auseinandergebracht. Dann habe ich jeden in Ruhe erzählen lassen. Am Ende haben sie sich darauf geeinigt, den Platz abwechselnd zu nutzen. Genau so etwas will ich später bei der Polizei machen: Streit beenden, bevor jemand verletzt wird.",
+    "tags": [
+      "Markt",
+      "Streit",
+      "Schlichtung"
+    ]
+  },
+  {
+    "id": "t16-abend",
+    "datum": "2026-11-14",
+    "titel": "Abends beim Ramen-Stand",
+    "kategorie": "alltag",
+    "rang": "",
+    "ort": "Ramen-Stand",
+    "text": "Am Abend war ich mit ein paar anderen Shinobi beim Ramen-Stand. Wir haben über die letzten Monate geredet, über die Bastionskämpfe und darüber, wer von uns welchen Weg einschlagen will. Ich habe erzählt, dass ich zur Konoha-Polizei möchte.",
+    "tags": [
+      "Kameradschaft",
+      "Konoha-Polizei"
+    ]
   }
 ];
