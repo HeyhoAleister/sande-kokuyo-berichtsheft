@@ -910,14 +910,14 @@ window.EINTRAEGE = [
   {
     "id": "t16-polizei",
     "datum": "2026-11-14",
-    "titel": "Bei der Polizei nachgefragt",
+    "titel": "Bei der Polizei nach der Bewerbung gefragt",
     "kategorie": "alltag",
     "rang": "",
     "ort": "Polizei",
-    "text": "Zu Beginn des Monats bin ich noch einmal zur Konoha-Polizei gegangen. Ich habe erzählt, was ich seit meinem ersten Besuch gemacht habe: die Streife, die ich begleitet habe, und die Bastionskämpfe. Dann habe ich gefragt, wie es mit meiner Aufnahme weitergehen kann.\nMan hat mir gesagt, dass ich so weitermachen und mich weiter bewähren soll.",
+    "text": "Zu Beginn des Monats bin ich noch einmal zur Konoha-Polizei gegangen und habe gefragt, wann man sich wieder bewerben kann. Ich will bereit sein, sobald es wieder möglich ist.",
     "tags": [
       "Konoha-Polizei",
-      "Aufnahme"
+      "Bewerbung"
     ]
   },
   {
