@@ -960,5 +960,61 @@ window.EINTRAEGE = [
       "Kameradschaft",
       "Konoha-Polizei"
     ]
+  },
+  {
+    "id": "t17-futton",
+    "datum": "2026-11-15",
+    "titel": "Dichteren Dampf ausprobiert",
+    "kategorie": "training",
+    "rang": "",
+    "ort": "Trainingsplatz",
+    "text": "Gleich am Anfang des Monats habe ich ausprobiert, was ich in der alten Schriftrolle aus der Bibliothek gelesen hatte. Darin stand, dass der Dampf dichter wird, wenn man das Chakra nicht auf einmal, sondern in kurzen Stößen freigibt und Feuer und Wasser schon nah am Körper zusammenbringt.\nDie ersten Versuche sind sofort auseinandergefallen, der Dampf war dünner als sonst. Erst gegen Abend hat sich die Wolke ein paar Atemzüge länger gehalten, ohne dass ich mehr Chakra verbraucht habe. Im Kampf ist das noch nicht zu gebrauchen, aber es zeigt, dass der Weg stimmt. Nach der Chakra-Erschöpfung achte ich darauf, rechtzeitig aufzuhören.",
+    "tags": [
+      "Futton",
+      "Kekkei Genkai",
+      "Chakra-Kontrolle"
+    ]
+  },
+  {
+    "id": "t17-akademie",
+    "datum": "2026-11-15",
+    "titel": "Bei den Akademie-Schülern ausgeholfen",
+    "kategorie": "akademie",
+    "rang": "",
+    "ort": "Akademie",
+    "text": "Ein Sensei hat ein paar Chunin gebeten, beim Kunai-Werfen der jüngeren Akademie-Schüler auszuhelfen. Ich habe mich gemeldet.\nDie meisten haben nur aus dem Arm geworfen und den Stand vergessen. Ich habe ihnen gezeigt, wie man die Füße stellt und den Wurf aus der Hüfte holt, so wie ich es selbst mit den Kokuyō geübt habe. Bei einigen saßen die Kunai danach deutlich öfter im Ziel. Es hat mich an meinen eigenen ersten Tag an der Akademie erinnert, als vieles noch neu war.",
+    "tags": [
+      "Akademie",
+      "Kunai",
+      "Schüler"
+    ]
+  },
+  {
+    "id": "t17-taijutsu",
+    "datum": "2026-11-15",
+    "titel": "Taijutsu mit den Kokuyō",
+    "kategorie": "training",
+    "rang": "",
+    "ort": "Trainingsplatz",
+    "text": "Am Nachmittag habe ich mit ein paar Leuten aus der Kokuyō-Familie Taijutsu trainiert. Wir haben vor allem an der Abwehr gearbeitet: Schläge ablenken, statt sie voll abzufangen, und danach sofort selbst angreifen.\nDen Tritt der Morgendämmerung habe ich dabei aus der Abwehr heraus geübt. Das klappt noch nicht jedes Mal, weil ich nach dem Ablenken oft zu spät das Gewicht verlagere.",
+    "tags": [
+      "Taijutsu",
+      "Kokuyō",
+      "Tritt der Morgendämmerung"
+    ]
+  },
+  {
+    "id": "t17-suzaku",
+    "datum": "2026-11-15",
+    "titel": "Treffen von Suzaku",
+    "kategorie": "alltag",
+    "rang": "",
+    "ort": "Konoha",
+    "text": "Am Abend gab es seit Langem wieder ein Treffen von Suzaku. Seit der Gründung ist viel passiert: der Krieg mit Sunagakure, die Bastionskämpfe, und einige von uns haben inzwischen einen höheren Rang.\nWir haben darüber geredet, wie es mit der Schülerbewegung weitergehen soll. Am Ende haben wir ausgemacht, wieder regelmäßig zusammen zu trainieren, damit Suzaku nicht nur ein Name bleibt.",
+    "tags": [
+      "Suzaku",
+      "Schülerbewegung",
+      "Zusammenhalt"
+    ]
   }
 ];
