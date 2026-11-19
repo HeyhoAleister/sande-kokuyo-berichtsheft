@@ -6,7 +6,7 @@
 window.PROFIL = {
   "name": "Sandē Kokuyō",
   "dorf": "Konoha",
-  "rang": "Chunin",
+  "rang": "Konin",
   "clan": "Kein Clan – Bauernfamilie Kokuyō",
   "team": "Schülerbewegung Suzaku",
   "element": "Katon",
@@ -17,7 +17,7 @@ window.PROFIL = {
     "Sandē Kokuyō ist auf einem kleinen Bauernhof am Rand von Konoha aufgewachsen, als eines von mehreren Geschwistern. Die Kokuyō gehören keinem bekannten Clan an – einfache Leute, die vom Land leben und zusammenhalten. Jeder musste mit anpacken, und schon früh hat Sandē gelernt, dass eine Familie nur so stark ist wie derjenige, der für sie einsteht.",
     "Als Sandē noch klein war, kamen in einem Winter Räuber auf den Hof und wollten Vorräte und Vieh mitnehmen. Sein Vater wurde dabei verletzt. Eine Patrouille aus Konoha kam dazu und hat die Räuber vertrieben. Seitdem hat Sandē großen Respekt vor den Shinobi des Dorfes.",
     "Danach hat er angefangen, nachts am Tor des Hofes Wache zu halten. Meistens ist nichts passiert, aber er hat dabei gelernt, aufmerksam zu sein und ruhig zu bleiben.",
-    "Mit den Jahren hat sich gezeigt, dass er mit Chakra umgehen kann. Sein Element ist Katon, dazu kommt das Kekkei Genkai Futton. Er ist an die Akademie gegangen und ist heute Chunin. Was er später genau machen will, weiß er noch nicht. Fest steht nur, dass er seine Familie und das Dorf schützen möchte."
+    "Mit den Jahren hat sich gezeigt, dass er mit Chakra umgehen kann. Sein Element ist Katon, dazu kommt das Kekkei Genkai Futton. Er ist an die Akademie gegangen und ist heute Konin. Was er später genau machen will, weiß er noch nicht. Fest steht nur, dass er seine Familie und das Dorf schützen möchte."
   ],
   "ziele": [
     {
@@ -1016,5 +1016,77 @@ window.EINTRAEGE = [
       "Schülerbewegung",
       "Zusammenhalt"
     ]
+  },
+  {
+    "id": "t18-krank",
+    "datum": "2026-11-16",
+    "titel": "Mit Fieber im Bett",
+    "kategorie": "sonstiges",
+    "rang": "",
+    "ort": "Hof der Familie",
+    "text": "Zu Beginn des Monats hat mich eine Erkältung erwischt, und kurz darauf kam Fieber dazu. Ich habe es erst nicht ernst genommen und wollte trotzdem zum Training, aber nach ein paar Schritten war klar, dass das nichts wird.\nIch habe den Monat auf dem Hof der Familie im Bett verbracht. Viel mehr als schlafen und Tee trinken war nicht drin. Training, Akademie und Suzaku mussten warten.",
+    "tags": [
+      "Krank",
+      "Fieber",
+      "Hof"
+    ]
+  },
+  {
+    "id": "t19-krank",
+    "datum": "2026-11-17",
+    "titel": "Noch immer krank",
+    "kategorie": "sonstiges",
+    "rang": "",
+    "ort": "Hof der Familie",
+    "text": "Auch in diesem Monat war ich noch krank. Das Fieber ist langsam zurückgegangen, aber der Husten ist geblieben, und nach kurzer Zeit auf den Beinen war ich schon müde.\nIch bin deshalb weiter auf dem Hof geblieben. Ein Shinobi, der krank ins Training geht, hilft niemandem, also habe ich gewartet, bis ich wieder ganz gesund war.",
+    "tags": [
+      "Krank",
+      "Erholung",
+      "Hof"
+    ]
+  },
+  {
+    "id": "t20-wieder-da",
+    "datum": "2026-11-18",
+    "titel": "Wieder gesund und zurück im Dorf",
+    "kategorie": "alltag",
+    "rang": "",
+    "ort": "Konoha",
+    "text": "Zu Beginn des Monats war ich wieder gesund und bin zurück ins Dorf gegangen. Unterwegs habe ich mit ein paar Leuten geredet und gefragt, was ich in den zwei Monaten verpasst habe.",
+    "tags": [
+      "Rückkehr",
+      "Dorf"
+    ]
+  },
+  {
+    "id": "t20-training",
+    "datum": "2026-11-18",
+    "titel": "Langsam wieder ins Training eingestiegen",
+    "kategorie": "training",
+    "rang": "",
+    "ort": "Trainingsplatz",
+    "text": "Danach bin ich zum Trainingsplatz gegangen. Ich habe es ruhig angehen lassen: Laufen, Dehnen und leichte Taijutsu-Übungen. Nach zwei Monaten im Bett hat man gemerkt, dass mir die Ausdauer fehlt.\nFutton habe ich nur kurz ausprobiert, um zu sehen, ob die kurzen Chakra-Stöße aus der Schriftrolle noch sitzen. Die Wolke war nicht so dicht wie vor der Krankheit, aber das kommt wieder.",
+    "tags": [
+      "Training",
+      "Futton",
+      "Ausdauer"
+    ]
+  },
+  {
+    "id": "t21-konin",
+    "datum": "2026-11-19",
+    "titel": "Von einem Akimichi zum Konin ernannt",
+    "kategorie": "dienst",
+    "rang": "",
+    "ort": "Trainingsplatz",
+    "text": "In diesem Monat wurde ich von einem Akimichi zum Konin ernannt. Konin ist der nächste Rang nach Chunin.\nNach den zwei Monaten, in denen ich krank im Bett lag, hatte ich damit nicht gerechnet. Seit ich Chunin bin, ist viel passiert: die Mission im Feuerreich, die Gefechte mit Sunagakure und die Bastionskämpfe. Mit dem neuen Rang wird noch mehr von mir erwartet als vorher, und ich will dem gerecht werden.",
+    "tags": [
+      "Akimichi",
+      "Konin",
+      "Ernennung"
+    ],
+    "meilenstein": true,
+    "tusche": "bilder/tusche-monat21-konin.jpg",
+    "tuscheText": "Ernennung zum Konin durch einen Akimichi auf dem Trainingsplatz"
   }
 ];
