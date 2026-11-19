@@ -978,14 +978,14 @@ window.EINTRAEGE = [
   {
     "id": "t17-akademie",
     "datum": "2026-11-15",
-    "titel": "Bei den Akademie-Schülern ausgeholfen",
+    "titel": "Den Akademie-Schülern bei ihren Jutsus geholfen",
     "kategorie": "akademie",
     "rang": "",
     "ort": "Akademie",
-    "text": "Ein Sensei hat ein paar Chunin gebeten, beim Kunai-Werfen der jüngeren Akademie-Schüler auszuhelfen. Ich habe mich gemeldet.\nDie meisten haben nur aus dem Arm geworfen und den Stand vergessen. Ich habe ihnen gezeigt, wie man die Füße stellt und den Wurf aus der Hüfte holt, so wie ich es selbst mit den Kokuyō geübt habe. Bei einigen saßen die Kunai danach deutlich öfter im Ziel. Es hat mich an meinen eigenen ersten Tag an der Akademie erinnert, als vieles noch neu war.",
+    "text": "An der Akademie habe ich den jüngeren Schülern bei ihren Jutsus geholfen.\nVielen ist das Jutsu misslungen, weil sie die Fingerzeichen zu schnell und ungenau geformt oder ihr Chakra nicht ruhig gesammelt haben. Ich habe ihnen gezeigt, die Zeichen erst langsam und sauber zu formen und das Tempo erst danach zu steigern. Bei einigen hat das Jutsu danach geklappt. Es hat mich an meinen eigenen ersten Tag an der Akademie erinnert, als ich selbst die Mudras gelernt habe.",
     "tags": [
       "Akademie",
-      "Kunai",
+      "Jutsus",
       "Schüler"
     ]
   },
